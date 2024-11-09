@@ -1,3 +1,6 @@
+Find (11/2024) compiled programs in build directory: *.exe = Win11; no extension = Mac Sonoma compiled withwith homebrew and sdl2.
+
+
 C-Octo
 ======
 ![Octode Demo](docs/images/octode_demo.gif)
