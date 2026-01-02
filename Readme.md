@@ -1,6 +1,8 @@
 # DMG
 
-Compiled under Big Sur.
+octo-de.dmg: Compiled under Mac OSX 10.7 Lion
+
+c-octo.dmg: Compiled under Big Sur.
 
 Build App from information given here: https://stackoverflow.com/questions/1596945/building-osx-app-bundle
 
